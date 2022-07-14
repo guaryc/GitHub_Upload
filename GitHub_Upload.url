@@ -1,2 +1,40 @@
 [InternetShortcut]
 URL=https://github.com/guaryc/GitHub_Upload#github_upload
+oan_costs = [500, 600, 200, 1000, 450]
+def len():
+    len(loan_costs)
+    print(len)
+def sum():
+    sum(loan_costs)
+    print(sum)
+average_loan_price = (sum(loan_costs)//len(loan_costs))
+discount_rate = .20
+from argparse import _AppendAction
+from calendar import monthcalendar
+import csv
+from sqlite3 import Date
+from types import new_class
+time = monthcalendar
+remaining_months = (monthcalendar - Date)
+x = time.get(remaining_months)
+print(x)
+present_value = loan_costs
+future_value = present_value*(1 + discount_rate/12)**time
+present_value = future_value/(1 + discount_rate/12)**time
+y = present_value.get(future_value)
+print(y)
+if present_value >= loan_costs:
+    print("this loan is worth buying")
+else present_value <= loan_costs:
+    print("this loan is not worth buying")
+inexpensive_loans =< 500
+new_class: inexpensive_loans
+for inexpensive_loans
+    if loan_costs =<500:
+       
+        _AppendAction: inexpensive_loans
+        print(inexpensive_loans)
+def create(csvwriter):
+    open with_open(.cvs)
+        in cvswriter
+            return header_var
